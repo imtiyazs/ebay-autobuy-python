@@ -1,0 +1,27 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: ImtiyazS-BuyUsing-SBX-960c321e5-a2dbe53d
+    certid: SBX-60c321e552ea-6ff5-42f9-bbe2-496f
+    devid: a2894478-dff7-4402-a9bd-4aac90c0becd
+    token: AgAAAA**AQAAAA**aAAAAA**YM40XA**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4ajAZaBogqdj6x9nY+seQ**R90EAA**AAMAAA**U9YYHBPLE4Fe/xMX4hUnmL6V8aSsVe/eH13oJXAnaRhZ/jxekudZexjAeLsNye47HZOyxAQ08x+1iZ8YGRj89zoI2XXvHsQQGJFdoEVi2V946V5wCiLKWqxcAnrY7XyiGS2ToxAmy6v4dxEi5kpvpF6dj82I7x32tGKFO4pbmLcL1SWu/bBQCc4WrZ4AAegkNnAJ5bWEDqiyLQVug3kZ6sypiZTugQLk2rJtl0Z16ZbcPHhbonuxdCXWEjhyWdLMMGMuBzBY2GwKh+1N1bTqaLJYZCfYf91UQt7hY4h9oYFH+LfKq7F0+45YdkuEpl1SxQzdsvraRRu0ZOz6mMdT/j86/nzcAkKrk8jF3nOR5oDJNZCWG8T+Dqx3xgLbQwuTMZy2GgU90W7CIVvjueXjhEtVYJGjNTtBIG9szgD7p76B5NizIwcCez8TubTF0koNzMPC3F37gpKfNIU9uQyjrNZLJRsB6yngJHXIgTfJvXkbwU4X0oxM66eq7dQHfmn5aHLjs73ZC+VnWYywGc8eVpWPJQSGpSKOmy+6H151Vx7SQBQAAdClXDMFq+OGWJEBWel1fCqz7umwD82XNwdI0dz9EPM5ptMrPIdJIcN1DomcWXyEhkUQ6mFd7zyMEk/OHLWYYtOI0ihxzRPSKNY9Fz6A1knneBoS9XNQYOPAwz/F8hNz7C8BBWHJkNHD0OaQp9cdhR+XHFt3qv+UV0XiuBss+aR2rEOEkSCRxyIC1lveJMik5WsfMFdtiaqWknuZ
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: ImtiyazS-BuyUsing-SBX-960c321e5-a2dbe53d
+    certid: SBX-60c321e552ea-6ff5-42f9-bbe2-496f
+    devid: a2894478-dff7-4402-a9bd-4aac90c0becd
+    token: AgAAAA**AQAAAA**aAAAAA**YM40XA**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4ajAZaBogqdj6x9nY+seQ**R90EAA**AAMAAA**U9YYHBPLE4Fe/xMX4hUnmL6V8aSsVe/eH13oJXAnaRhZ/jxekudZexjAeLsNye47HZOyxAQ08x+1iZ8YGRj89zoI2XXvHsQQGJFdoEVi2V946V5wCiLKWqxcAnrY7XyiGS2ToxAmy6v4dxEi5kpvpF6dj82I7x32tGKFO4pbmLcL1SWu/bBQCc4WrZ4AAegkNnAJ5bWEDqiyLQVug3kZ6sypiZTugQLk2rJtl0Z16ZbcPHhbonuxdCXWEjhyWdLMMGMuBzBY2GwKh+1N1bTqaLJYZCfYf91UQt7hY4h9oYFH+LfKq7F0+45YdkuEpl1SxQzdsvraRRu0ZOz6mMdT/j86/nzcAkKrk8jF3nOR5oDJNZCWG8T+Dqx3xgLbQwuTMZy2GgU90W7CIVvjueXjhEtVYJGjNTtBIG9szgD7p76B5NizIwcCez8TubTF0koNzMPC3F37gpKfNIU9uQyjrNZLJRsB6yngJHXIgTfJvXkbwU4X0oxM66eq7dQHfmn5aHLjs73ZC+VnWYywGc8eVpWPJQSGpSKOmy+6H151Vx7SQBQAAdClXDMFq+OGWJEBWel1fCqz7umwD82XNwdI0dz9EPM5ptMrPIdJIcN1DomcWXyEhkUQ6mFd7zyMEk/OHLWYYtOI0ihxzRPSKNY9Fz6A1knneBoS9XNQYOPAwz/F8hNz7C8BBWHJkNHD0OaQp9cdhR+XHFt3qv+UV0XiuBss+aR2rEOEkSCRxyIC1lveJMik5WsfMFdtiaqWknuZ
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: ImtiyazS-BuyUsing-SBX-960c321e5-a2dbe53d
+    version: 1.0.0
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: ImtiyazS-BuyUsing-SBX-960c321e5-a2dbe53d
+    version: 671
